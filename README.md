@@ -15,7 +15,7 @@ Built with <strong>Python</strong>, <strong>Google Gemini AI</strong>, <strong>L
 <ul>
   <li>✅ Upload meeting audio files (.MP3, .WAV, .M4A)</li>
   <li>✅ Speech-to-Text transcription (Audio → Text)</li>
-  <li>✅ Automatic meeting transcript generation</li>
+  <li>✅ OpenAI Whisper for meeting transcript generation</li>
   <li>✅ AI-powered meeting summarization</li>
   <li>✅ Generate professional meeting notes automatically</li>
   <li>✅ Remove unnecessary filler words and noise</li>
@@ -54,7 +54,7 @@ Built with <strong>Python</strong>, <strong>Google Gemini AI</strong>, <strong>L
   </tr>
   <tr>
     <td>Speech-to-Text Model</td>
-    <td>Audio transcription</td>
+    <td>OpenAI Whisper</td>
   </tr>
   <tr>
     <td>NLP</td>
